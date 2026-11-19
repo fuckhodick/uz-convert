@@ -1,0 +1,7 @@
+﻿*_new.txt
+test*.txt
+*.docx
+*.pdf
+*.xlsx
+*.csv
+__pycache__/
